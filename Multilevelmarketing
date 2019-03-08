@@ -1,0 +1,13 @@
+Das Marketing System arbeitet mit einer abgestuften Gewinnbeteiligung der Kunden an direkt und indirekt angeworbenen Neukunden.
+Es ist an ein Generationen System angekoppelt, das maximal 5 Generationen in die Tiefe geht und so maximal 9.5 % der
+Kundengewinne umverteilt.
+Abstufungen:
+Generation 1 (Alle direkt durch dem Kunden eingeschriebene Neukunden) 3.5 % Beteiligung
+Generation 2 (alle von Neukunden angeworbene Personen ) 2.5 % Beteiligung
+Generation 3 2 % Beteiligung
+Generation 4 1 % Beteiligung
+Generation 5 0.5 % Beteiligung
+
+Alle Tiefer liegenden Generationen werden nicht berücksichtigt.
+Alle Personen, die sich nicht über einen Reflink registrieren, werden automatisch als Direkte des Marketings eingeschrieben, das
+die Position 1 in der Vertriebsstruktur einnimmt.
